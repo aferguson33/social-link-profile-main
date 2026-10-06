@@ -5,3 +5,27 @@ body{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:hsl(0, 0%, 0%);
 }
+
+h1{
+    font-size:20px;
+}
+
+p{
+    font-size:14px;
+}
+
+.country{
+    color:hsl(75, 94%, 57%);
+}
+
+.box-container{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.text-container{
+   border:1px solid white;
+   text-align:center;
+}
